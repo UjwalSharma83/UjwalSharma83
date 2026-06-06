@@ -169,11 +169,15 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=UjwalSharma83&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+![Commits](https://img.shields.io/badge/Total%20Commits-8-00d4ff?style=for-the-badge&logo=git&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-3-00ff88?style=for-the-badge&logo=github&logoColor=black)
+![Stars](https://img.shields.io/badge/Total%20Stars-12-ffb300?style=for-the-badge&logo=github&logoColor=black)
+![Canada](https://img.shields.io/badge/Based%20In-Toronto%20🇨🇦-ff3b3b?style=for-the-badge)
+![Open To Work](https://img.shields.io/badge/Open%20To-Work-00ff88?style=for-the-badge)
 
 </div>
 
